@@ -1,0 +1,229 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\css\\templatemo-lugx-gaming.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-lugx-gaming.css"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\banner-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\caption-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\caption-dec.png"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\categories-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-01.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\categories-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-02.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\categories-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-03.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\categories-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-04.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\categories-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-05.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cta-bg.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\featured-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-01.png"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\featured-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-02.png"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\featured-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-03.png"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\featured-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-04.png"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-bg.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\page-heading-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\page-heading-bg.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\single-game.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-game.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\top-game-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-01.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\top-game-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-02.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\top-game-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-03.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\top-game-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-04.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\top-game-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-05.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\top-game-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-06.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\trending-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\trending-01.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\trending-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\trending-02.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\trending-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\trending-03.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\images\\trending-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\trending-04.jpg"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\js\\counter.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counter.js"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\LessonsForC#\\WebserviceLesson\\WebApplication6\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplication6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplication6.props",
+      "PackagePath": "build\\WebApplication6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication6.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplication6.props",
+      "PackagePath": "buildTransitive\\WebApplication6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
